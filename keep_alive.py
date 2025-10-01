@@ -30,8 +30,8 @@ HTML = """
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>server name</title>
-<link rel="icon" href="image link"> 
+<title>Texas State Roleplay</title>
+<link rel="icon" href="https://media.discordapp.net/attachments/1386306729167552633/1422876766757847051/thinbannertexas.png?ex=68de44c0&is=68dcf340&hm=94b09369eaa9e288aedd7e210fc424c00d5d4541e99414666a7619a9d26101de&=&format=webp&quality=lossless&width=550&height=47"> 
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
@@ -159,9 +159,9 @@ HTML = """
 <body>
 <div class="container">
     <div class="logo-container">
-        <img src="image link" alt="server name Logo" />
+        <img src="https://media.discordapp.net/attachments/1386306729167552633/1422876766757847051/thinbannertexas.png?ex=68de44c0&is=68dcf340&hm=94b09369eaa9e288aedd7e210fc424c00d5d4541e99414666a7619a9d26101de&=&format=webp&quality=lossless&width=550&height=47" alt="Texas State" />
     </div>
-    <h1>server name</h1>
+    <h1>Texas State</h1>
     <div class="stats">
         <div class="stat-card">
             <h2>Players In-Game</h2>
@@ -187,7 +187,7 @@ HTML = """
         </ul>
     </div>
 </div>
-<footer>server name</footer>
+<footer>Texas State</footer>
 
 <script>
 async function fetchData() {
@@ -325,4 +325,5 @@ def keep_alive():
     thread.start()
 
 # if __name__ == "__main__":
+
   #  app.run(debug=True, port=5000)
